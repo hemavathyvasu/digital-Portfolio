@@ -94,8 +94,8 @@
 <body>
     <header>
         <div class="header-content">
-            <!-- "/storage/emulated/0/Download/IMG_20250322_180307.jpg" -->
-            <img src="/storage/emulated/0/Download/IMG_20250322_180307.jpg"alt="Your Profile Picture" class="profile-picture">
+            <!-- ".jpg" -->
+            <img src="myphoto.jpg"alt="Your Profile Picture" class="profile-picture">
             <h1>Hemavathy V</h1>
             <p>I AM BCA STUDENT</p>
         </div>
